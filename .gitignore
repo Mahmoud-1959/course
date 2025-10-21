@@ -1,0 +1,4 @@
+*.log
+!a.log
+text.txt
+mahmoud\
